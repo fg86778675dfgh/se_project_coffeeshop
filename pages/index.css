@@ -19,7 +19,7 @@ nav {
   display: flex;
   justify-content: space-between;
 }
-.nav__links {
+.header__links {
   display: flex;
   gap: 20px;
   right: 80px;
@@ -29,13 +29,13 @@ nav {
   font-size: 16px;
   line-height: 20px;
 }
-.nav__logo {
+.header__logo {
   position: relative;
   left: -50px;
   height: 39px;
   width: 105px;
 }
-.nav__link {
+.header__link {
   list-style-type: none;
   text-decoration: none;
 }
@@ -67,7 +67,7 @@ nav {
 .header__span-accent {
   font-family: "Noto Serif", "Time New Roman", serif;
   font-style: italic;
-  font-weight: normal;
+  font-weight: 40px;
   font-size: 60px;
   line-height: 72px;
   color: #3f96f3;
