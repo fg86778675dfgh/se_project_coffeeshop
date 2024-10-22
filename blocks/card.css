@@ -2,7 +2,11 @@
   width: 540px;
 }
 .card__title {
+<<<<<<< HEAD
   margin: 0 0 32px;
+=======
+  margin: 0;
+>>>>>>> c7987a8848687ba7ca8eb617f7f815fd7677497c
   font-family: "Inter", "Arial", sans-serif;
   font-style: normal;
   font-weight: bold;
@@ -12,7 +16,11 @@
 .card__list {
   padding: 0;
   margin: 0;
+<<<<<<< HEAD
   gap: 16px;
+=======
+  gap: 32px;
+>>>>>>> c7987a8848687ba7ca8eb617f7f815fd7677497c
   display: flex;
   flex-direction: column;
 }
