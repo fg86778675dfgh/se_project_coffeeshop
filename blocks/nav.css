@@ -5,10 +5,6 @@
 .nav__links {
   display: flex;
   gap: 20px;
-<<<<<<< HEAD
-=======
-  position: static;
->>>>>>> c7987a8848687ba7ca8eb617f7f815fd7677497c
   font-family: "Inter", "Arial", sans-serif;
   font-style: normal;
   font-weight: 500;
@@ -27,7 +23,6 @@
 .nav__link {
   text-decoration: none;
   color: #000;
-<<<<<<< HEAD
   font-family: "Inter", Arial, sans-serif;
 =======
   font-family: "Inter";
